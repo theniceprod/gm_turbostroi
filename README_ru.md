@@ -85,3 +85,4 @@ CC= $(DEFAULT_CC) -m32
 make config=release_x86
 ```
 9. Скопируйте `projects/linux/gmake/x86/Release/gmsv_turbostroi_linux.dll` в `GarrysModDS\garrysmod\lua\bin` (создайте папку `bin`, если её нет)
+ 
