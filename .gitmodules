@@ -1,6 +1,7 @@
 [submodule "external/garrysmod_common"]
-	path = external/garrysmod_common
-	url = https://github.com/danielga/garrysmod_common.git
+    path = external/garrysmod_common
+    url = https://github.com
+    branch = x86-64-support-sourcesdk
 [submodule "external/luajit"]
 	path = external/luajit
 	url = https://github.com/LuaJIT/LuaJIT.git
